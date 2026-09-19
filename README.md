@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Sevin Kenula 👋
 
-<!--
-**sevin-kenula/sevin-kenula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Computer Science Student | Aspiring AI Developer
 
-Here are some ideas to get you started:
+I'm interested in Artificial Intelligence, software development,
+and building practical technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Web Development
+- APIs
+
+## 🛠️ Technologies
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Streamlit
+- Git
+- GitHub
+- Gemini API
+
+## 📌 Featured Projects
+
+### 📄 AI Resume Analyzer
+
+An AI-powered web application that analyzes resumes,
+extracts important information, identifies skills,
+and provides useful resume insights.
+
+**Tech:** Python · Streamlit · Gemini API
+
+[View Project](https://github.com/sevin-kenula/Ai-resume-analyzer)
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my projects,
+skills, education, and contact information.
+
+[View Portfolio](https://sevin-kenula.github.io/my-portfolio/)
+
+## 🎓 Education
+
+**National Institute of Business Management (NIBM)**
+
+Artificial Intelligence with Computer Science
+
+## 📫 Connect With Me
+
+- [GitHub](https://github.com/sevin-kenula)
+- [LinkedIn](https://www.linkedin.com/in/sevin-kenula-144a05436)
+- Email: sevin.kenula.me@gmail.com
